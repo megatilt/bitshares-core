@@ -88,8 +88,8 @@
 ///@}
 #define GRAPHENE_DEFAULT_MARGIN_PERIOD_SEC              (30*60*60*24)
 
-#define GRAPHENE_DEFAULT_MIN_WITNESS_COUNT                    (11)
-#define GRAPHENE_DEFAULT_MIN_COMMITTEE_MEMBER_COUNT           (11)
+#define GRAPHENE_DEFAULT_MIN_WITNESS_COUNT                    (51)
+#define GRAPHENE_DEFAULT_MIN_COMMITTEE_MEMBER_COUNT           (51)
 #define GRAPHENE_DEFAULT_MAX_WITNESSES                        (1001) // SHOULD BE ODD
 #define GRAPHENE_DEFAULT_MAX_COMMITTEE                        (1001) // SHOULD BE ODD
 #define GRAPHENE_DEFAULT_MAX_PROPOSAL_LIFETIME_SEC            (60*60*24*7*4) // Four weeks
@@ -144,7 +144,7 @@
 #define GRAPHENE_RECENTLY_MISSED_COUNT_INCREMENT             4
 #define GRAPHENE_RECENTLY_MISSED_COUNT_DECREMENT             3
 
-#define GRAPHENE_CURRENT_DB_VERSION                          "CAP2.9"
+#define GRAPHENE_CURRENT_DB_VERSION                          "CAP1.0"
 
 #define GRAPHENE_IRREVERSIBLE_THRESHOLD                      (70 * GRAPHENE_1_PERCENT)
 
