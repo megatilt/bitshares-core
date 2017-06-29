@@ -9,7 +9,6 @@ compile_commands.json
 moc_*
 *.moc
 
-genesis.json
 hardfork.hpp
 
 libraries/utilities/git_revision.cpp
@@ -38,6 +37,8 @@ witness_node_data_dir
 programs/witness_node/object_database/*
 
 object_database/*
+
+build
 
 *.pyc
 *.pyo
