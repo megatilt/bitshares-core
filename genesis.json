@@ -281,6 +281,56 @@
       "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
       "is_lifetime_member": true
     },{
+      "name": "init11",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init12",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init13",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init14",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init15",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init16",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init17",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init18",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init19",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
+      "name": "init20",
+      "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
+      "is_lifetime_member": true
+    },{
       "name": "nathan",
       "owner_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
       "active_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV",
@@ -329,6 +379,36 @@
     },{
       "owner_name": "init10",
       "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init11",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init12",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init13",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init14",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init15",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init16",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init17",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init18",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init19",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
+    },{
+      "owner_name": "init20",
+      "block_signing_key": "CAP6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV"
     }
   ],
   "initial_committee_candidates": [{
@@ -353,13 +433,33 @@
       "owner_name": "init09"
     },{
       "owner_name": "init10"
+    },{
+      "owner_name": "init11"
+    },{
+      "owner_name": "init12"
+    },{
+      "owner_name": "init13"
+    },{
+      "owner_name": "init14"
+    },{
+      "owner_name": "init15"
+    },{
+      "owner_name": "init16"
+    },{
+      "owner_name": "init17"
+    },{
+      "owner_name": "init18"
+    },{
+      "owner_name": "init19"
+    },{
+      "owner_name": "init20"
     }
   ],
   "initial_worker_candidates": [],
   "initial_chain_id": "aa34045518f1469a28fa4578240d5f039afa9959c0b95ce3b39674efa691fb21",
   "immutable_parameters": {
-    "min_committee_member_count": 11,
-    "min_witness_count": 11,
+    "min_committee_member_count": 21,
+    "min_witness_count": 21,
     "num_special_accounts": 0,
     "num_special_assets": 0
   }
