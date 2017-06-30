@@ -33,6 +33,26 @@
 
 namespace graphene { namespace chain {
 
+void database::update_settlement_price(const asset_object& mia)
+{
+	try {
+		const asset_bitasset_data_object& bitasset = mia.bitasset_data(*this);
+
+		const auto& limit_order_idx = get_index_type<limit_order_index>();
+		const auto& limit_price_idx = limit_order_idx.indices().get<by_price>();
+		auto limit_itr = limit_price_idx.lower_bound(price::max(bitasset.options.short_backing_asset, mia.get_id()));
+		price maxbid = (*limit_itr).sell_price;
+		auto basepriceid = maxbid.base;
+		maxbid.base = maxbid.quote;
+		maxbid.quote = basepriceid;
+
+		modify(bitasset, [&](asset_bitasset_data_object& obj){
+			obj.current_feed.settlement_price = maxbid;
+		});
+
+	} FC_CAPTURE_AND_RETHROW((mia))
+}  
+
 /**
  * All margin positions are force closed at the swan price
  * Collateral received goes into a force-settlement fund

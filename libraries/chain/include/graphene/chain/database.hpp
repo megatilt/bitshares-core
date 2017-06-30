@@ -334,6 +334,7 @@ namespace graphene { namespace chain {
          //////////////////// db_market.cpp ////////////////////
 
          /// @{ @group Market Helpers
+         void update_settlement_price(const asset_object& mia);
          void globally_settle_asset( const asset_object& bitasset, const price& settle_price );
          void cancel_order(const force_settlement_object& order, bool create_virtual_op = true);
          void cancel_order(const limit_order_object& order, bool create_virtual_op = true);
@@ -437,7 +438,7 @@ namespace graphene { namespace chain {
          void clear_expired_transactions();
          void clear_expired_proposals();
          void clear_expired_orders();
-         void update_expired_feeds();
+         void update_feeds();
          void update_maintenance_flag( bool new_maintenance_flag );
          void update_withdraw_permissions();
          bool check_for_blackswan( const asset_object& mia, bool enable_black_swan = true );
